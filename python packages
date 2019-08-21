@@ -1,0 +1,44 @@
+1. Theano
+Theano is another useful Python library assists data scientists in performing large multi-dimensional arrays related computing operations. It is more like TensorFlow but the only difference is, it is not that efficient.
+
+It is getting used for distributed and parallel computing based tasks. Through it, you can optimize, express or evaluate you array-enabled mathematical operations. It is tightly coupled with NumPy powered by implemented numpy.ndarray function.
+
+2. Keras
+Keras is one of the most powerful Python libraries which allow high-level neural networks APIs for integration. Theses APIs execute over the top of TensorFlow, Theano and CNTK. Keras was created for reducing challenges faced in complex researches allowing them to compute faster. For one who is using deep learning libraries for their work, Keras is the best option.
+It allows fast prototyping, supports recurrent and convolution networks individually and also their combination, execution over GPU and CPU.
+
+3.  PyTorch
+PyTorch is considered one of the largest machine learning libraries for data scientists and researchers. It helps them in dynamic computational graphs design, fast tensor computations accelerated through GPUs., and various other complex tasks. In neural network algorithms, PyTorch APIs plays an effective role.
+
+
+4. SciPy
+SciPy is another Python library for researchers, developers and data scientists. Do not get confused with the SciPy stack and library. It provides statistics, optimizations, integration and linear algebra packages for computation. It is based on NumPy concept to deal with complex mathematical problems.
+
+5. PyBrain
+PyBrain is another powerful modular ML library available in Python. PyBrain stands for Python Based Reinforcement Learning, Artificial Intelligence, and Neural Network Library. For entry-level data scientists, it offers flexible modules and algorithms for advanced research. It has varieties for algorithms for evolution, neural networks, supervised and unsupervised learning.  For real-life tasks, it has emerged as the best tool which is developed across the neural network in the kernel.
+
+6. SciKit-Learn
+Scikit-Learn is a simple tool for data analysis and mining-related tasks. It is open-source and licensed under the BSD. Anyone can access or reuse it in various contexts. SciKit is developed over the Numpy, Scipy, and Matplotlib. It is being used for classification, regression and clustering o manage spam, image recognition, drug response, stock pricing, customer segmentation etc. It also allows dimensionality reduction, model selection and pre-processing.
+
+
+7.  Tensorflow
+This open source library was designed by Google to compute data low graphs with the empowered machine learning algorithms. It was designed to fulfill high demand for the training neural networks work. It is not just limited to the scientific computations performed by Google rater it is widely being used in the popular real-world application.
+
+Due to its high performance and flexible architecture the deployment for all CPUs, GPUs or TPUs becomes easy task performing PC server clustering to the edge devices.
+
+
+8.  Seaborn
+Seaborn was designed to visualize the complex statistical models. It has the potential to deliver accurate graphs such as heat maps. Seaborn was created on the concept of Matplotlib and somehow it is highly dependent on that. Minor to minor data distributions can be easily visualized through this library which is why it has become familiar among data scientists and developers.
+
+
+9. Bokeh
+Bokeh is one more visualization library for designing interactive plots. Just like the last one, it is also developed on matplotlib. Due to the used data-driven documents (D3.js. support it presents interactive designs in the web browser.
+
+
+10.  Kivy
+This open-source Python library provides a natural user interface which can be easily accessed over the Android, iOS, Linux or Windows. It is licensed open source under MIT. The library is very helpful in building mobile apps and multi-touch applications.
+
+Initially, it was developed for Kivy iOS. It avails the elements like the graphics library, extensive support to hardware such as the mouse, keyboard and wide range of widgets. One can also use it as an intermediate language to create custom widgets.
+
+11.  OpenCV
+OpenCV is designed for driving growth of the real-time computing application development. It was created by Intel. This open-source platform is licensed under BSD and free to use for anyone. It includes 2D and 3D feature toolkits, object identification algorithms, mobile robotics, face recognition, gesture recognition, motion tracking, segmentation, SFM, AR, boosting, gradient boosting trees, Naive Bayes classifier and many other useful packages.
